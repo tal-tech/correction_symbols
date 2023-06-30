@@ -1,0 +1,2 @@
+批改符号识别
+make以后 运行：./test_demo ./0607.png 1 10 ./model/config.ini ./model/crnn_Rec_swa_462w_blur_8_16_20210524.pt ./model/crnn_best_acc94.pt ./model/zidian_new_5883.txt ./model/dict_henji.txt
